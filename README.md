@@ -65,14 +65,6 @@ src/
 └── main.tsx
 ```
 
-## 🎯 Future Improvements
-
-- °C / °F toggle
-- 5-day forecast
-- Search history
-- Favorite cities
-- Weather animations
-
 ## 📚 What I Learned
 
 During this project I practiced:
