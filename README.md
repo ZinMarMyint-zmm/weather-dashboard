@@ -60,7 +60,6 @@ src/
 ├── hooks/
 ├── services/
 ├── types/
-├── utils/
 ├── App.tsx
 └── main.tsx
 ```
