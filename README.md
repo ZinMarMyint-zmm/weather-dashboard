@@ -1,3 +1,7 @@
+![React](https://img.shields.io/badge/React-19-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF)
 # 🌤️ Weather Dashboard
 
 A responsive weather dashboard built with React, TypeScript, and Tailwind CSS. Users can search any city to view the current weather and hourly forecast using the OpenWeather API.
