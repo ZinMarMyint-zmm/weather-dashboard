@@ -69,6 +69,10 @@ src/
 - Favorite cities
 - Weather animations
 
+## 📸 Preview
+
+![Weather Dashboard](./preview.png)
+
 ## 👩‍💻 Author
 
 Zin Mar Myint
