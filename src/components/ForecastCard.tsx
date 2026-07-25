@@ -26,9 +26,17 @@ export default function ForecastCard({ forecast }: Props) {
                   alt={`weather-icon-${item.weather[0].description}`}
                 />
 
-                <p className="text-sm font-bold">{item.main.feels_like}°C</p>
-                <p className="text-sm font-bold">{item.main.humidity}%</p>
-                <p className="text-sm font-bold">{item.main.temp}°C</p>
+                <p className="text-sm">
+                  feels{" "}
+                  <span className="font-bold">{item.main.feels_like}°</span>
+                </p>
+                <p className="text-sm">
+                  humidity{" "}
+                  <span className="font-bold">{item.main.humidity}%</span>
+                </p>
+                <p className="text-sm">
+                  temp <span className="font-bold">{item.main.temp}°</span>
+                </p>
               </div>
             ))}
           </div>
