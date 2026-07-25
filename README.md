@@ -69,6 +69,22 @@ src/
 - Favorite cities
 - Weather animations
 
+## 📚 What I Learned
+
+During this project I practiced:
+
+- Component-based architecture
+- React Hooks
+- Custom Hooks
+- API Integration
+- Async/Await & Fetch API
+- TypeScript interfaces and types
+- State Management
+- Conditional Rendering
+- Responsive Design
+- Dark Mode implementation
+- Clean folder structure
+
 ## 📸 Preview
 
 ![Weather Dashboard](./preview.png)
