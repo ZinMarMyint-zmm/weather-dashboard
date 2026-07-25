@@ -56,3 +56,9 @@ export type ForecastType ={
     
     
 }
+
+export interface LoadingSpinnerType {
+  size?: "sm" | "md" | "lg";
+  color?: string;
+  message?: string;
+}
